@@ -30,11 +30,13 @@ Um aplicativo para ajudar as pessoas que estão procurando emprego a gerenciar a
 - Dicas gerais para entrevista.
 - Feedback recebidos nas etapas como TO DO de acoes.
 - Inserir anexos, fotos dos emails ou do cartao de visitas de algum profissional.
+- Coleta de informacao e posterior uso para "predicoes" para outros usuarios. Ex: 15 pessoas diferentes fizeram processo para uma vaga na empresa "trademe" e todas elas preencheram as informacoes no app. A proxima pessoa que inserir uma vaga desta empresa, podera receber sugestoes das proximas etapas.
+- Integracao com glassdoor.com, sites de avaliacao de empresas.
 
-### Processo feliz:
+### Caminho feliz:
 
 Vamos supor que você achou uma vaga num site de uma empresa xpto e resolveu aplicar para a vaga. Você entrou no site da empresa e fez um upload do seu CV e Cover letter. O que você faz agora?
-[APP se refere ao sistema, e aplicação se refere ao processo seletivo]
+[APP se refere ao "sisteminha", e aplicação se refere ao processo seletivo]
 
 1) Você abre o app e incluiu uma nova aplicação e insere os seguintes dados: Empresa, Data da aplicação, Nome da Vaga, Link, CV utilizado, Se teve recrutador.
 Você recebeu uns dias depois um email dizendo que a empresa gostou do seu CV e deve te ligar no dia 'dd' para conversar com você. O que você faz agora?
@@ -44,7 +46,7 @@ Ai no dia 'dd' você recebeu o telefonema fez a entrevista e o recrutador falou 
 
 3) Você abre o app e seleciona para ver aplicações em aberto. Você abre a aplicação da empresa xpto. Você clica para editar a etapa atual. Neste momento, você troca o status para "Passei" e clica para adicionar uma nova etapa. Nesta nova etapa você adicionara os mesmos dados da etapa anterior: data, hora, local, status, um comentário se quiser.
 
-`...`
+"..."
 
 E assim por diante. Se em algum momento você nao passar, você coloca um status que falhou na etapa, e ele encerra a aplicação para aquela vaga. Sendo assim você pode ter `n` aplicações onde cada uma tera uma etapa diferente.
 
