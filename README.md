@@ -51,3 +51,6 @@ Ai no dia 'dd' você recebeu o telefonema fez a entrevista e o recrutador falou 
 E assim por diante. Se em algum momento você nao passar, você coloca um status que falhou na etapa, e ele encerra a aplicação para aquela vaga. Sendo assim você pode ter `n` aplicações onde cada uma tera uma etapa diferente.
 
 Nas etapas ainda poderiamos adicionar informações sobre nome (ou nomes) das pessoas que participaram, ou informações que você queira fazer num campo comentário.
+
+## Trello Board
+https://trello.com/invite/b/UAy1GAx0/0911522afda1de68592b073c2d8f9703/the-project
