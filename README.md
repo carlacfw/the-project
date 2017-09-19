@@ -18,7 +18,7 @@ Um aplicativo para ajudar as pessoas que estão procurando emprego a gerenciar a
 - acompanhar processos que precisem de um follow-up.
 
 
-### O que este aplicativo não se prop~oe (oportunidades para o futuro):
+### O que este aplicativo não se propõe (oportunidades para o futuro):
 - Ajudar a melhorar o CV (sugestão de palavras chaves, correções linguísticas).
 - SPOC (Single Point of Contact) de CV.
 - Exportacao de CV em PDF, DOC, ODF, Sites especializados.
